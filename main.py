@@ -1,5 +1,5 @@
 # ==============================================================================
-# SOV-TOPO.GIT: SOVEREIGN TOPOLOGIC ENGINE (v1.0.0 - APEX INSTITUTIONAL ALLIANCE)
+# Gitop: SOVEREIGN TOPOLOGIC ENGINE (v1.0.0 - APEX INSTITUTIONAL ALLIANCE)
 # Sovereign Creator: Jean Laris
 # Holding: Alantec - Architects of the Future
 # Purpose: Cognitive Sovereignty & Bounded Topological State Architecture
@@ -7,7 +7,7 @@
 # ==============================================================================
 
 """
-sov-topo.git
+Gitop
 Main engine for bounded topological attraction basins and state tracking.
 Open-source sovereign logic artifact designed for extreme morphological synthesis.
 """
@@ -26,7 +26,7 @@ def sovereign_topologic_basin(n: int, steps: int = 10) -> list[int]:
     return history
 
 if __name__ == "__main__":
-    print("Initializing sov-topo.git...")
+    print("Initializing Gitop.git...")
     print("Trajectory:", sovereign_topologic_basin(13))
 
 
